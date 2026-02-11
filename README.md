@@ -23,8 +23,8 @@ I’m a **disciplined, self-motivated**, and **team-oriented** individual who th
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/aryan-tiwwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-tiwwarii" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/AryanTiwari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AryanTiwari11" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/aryantiwari11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryantiwari11" height="30" width="40" />
+<!-- <a href="https://leetcode.com/u/AryanTiwari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AryanTiwari11" height="30" width="40" /></a> -->
+<!-- <a href="https://www.geeksforgeeks.org/user/aryantiwari11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryantiwari11" height="30" width="40" /> -->
 </a>
 </p>
 
